@@ -4,7 +4,7 @@ Welcome to Chapter 1! In this chapter we will go over and learn the basics of th
 
 ## Index
 ---
-* [Lesson 1: Setting up our development environment](l1.md)
+* [Lesson 1: Setting up our development environment](L1/L1.md)
 
 
 [Return to main page](../README.md)

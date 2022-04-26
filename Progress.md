@@ -18,4 +18,4 @@ Note: This project is being worked on currently as a solo project by me (Trevin 
 | Page                                                        | Date published |
 |-------------------------------------------------------------|----------------|
 | [Chapter 1 Page](/Chapter1-PythonBasics/Chapter1.md)        | 4/25/2022      |
-| [L1: Setting Up](/Chapter1-PythonBasics/l1.md)              | 4/25/2022      |
+| [L1: Setting Up](/Chapter1-PythonBasics/L1/L1.md)              | 4/25/2022      |
