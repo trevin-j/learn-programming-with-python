@@ -7,15 +7,15 @@ Note: This project is being worked on currently as a solo project by me (Trevin 
 
 ### Main Pages
 
-| Page | Date published |
----------------------------
-| [Main Page](README.md) | 4/25/2022 |
-| This Page | 4/25/2022 |
+| Page                      | Date published |
+|---------------------------|----------------|
+| [Main Page](README.md)    | 4/25/2022      |
+| This Page                 | 4/25/2022      |
 
 
 ### Chapter 1
 
-| Page | Date published |
----------------------------
-| [Chapter 1 Page](/Chapter1-PythonBasics/Chapter1.md) | 4/25/2022 |
-| [L1: Setting Up](/Chapter1-PythonBasics/l1.md) | 4/25/2022 |
+| Page                                                        | Date published |
+|-------------------------------------------------------------|----------------|
+| [Chapter 1 Page](/Chapter1-PythonBasics/Chapter1.md)        | 4/25/2022      |
+| [L1: Setting Up](/Chapter1-PythonBasics/l1.md)              | 4/25/2022      |
