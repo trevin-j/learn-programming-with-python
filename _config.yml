@@ -7,6 +7,3 @@ include:
   - README.md
 
 theme: jekyll-theme-tactile
-
-markdown: kramdown
-highlighter: rouge
