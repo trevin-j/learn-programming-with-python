@@ -1,4 +1,4 @@
-# LearnProgrammingWithPython
+# Learn Programming With Python
 
 ### An introduction to programming written by someone who knows what it's like to learn on your own.
 ---
