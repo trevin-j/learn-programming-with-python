@@ -1,4 +1,4 @@
-# LearnProgrammingWithPython
+# Learn Programming With Python
 
 ### An introduction to programming written by someone who knows what it's like to learn on your own.
 ---
@@ -6,7 +6,7 @@
 
 # Chapter Index
 
-* [Chapter 1: Basic introduction to Python](Chapter1-PythonBasics/Chapter1.md)
+* [Chapter 1: Basic introduction to Python](chapter-1-python-basics/chapter-1.md)
 
 ---
 
@@ -127,8 +127,8 @@ If you have been following my guide, and you think of something you want me to c
 
 For inquiries, contact me via trevindjones@gmail.com.
 
-See how far this guide has come so far [here](Progress.md)
+See how far this guide has come so far [here](progress.md)
 
-[View this page on GitHub](https://github.com/trevin-j/LearnProgrammingWithPython/blob/master/README.md)
+[View this page on GitHub](https://github.com/trevin-j/learn-programming-with-python/blob/master/README.md)
 
-[View this live page](https://trevin-j.github.io/LearnProgrammingWithPython/)
+[View this live page](https://trevin-j.github.io/learn-programming-with-python/)

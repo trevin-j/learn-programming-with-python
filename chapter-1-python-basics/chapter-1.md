@@ -4,9 +4,9 @@ Welcome to Chapter 1! In this chapter we will go over and learn the basics of th
 
 ## Index
 ---
-* [Lesson 1: Setting up our development environment](L1/L1.md)
-* [Lesson 2: Input/Output, Variables, and Comments](L2/L2.md)
-* [Lesson 3: Booleans and Operators](L3/L3.md)
+* [Lesson 1: Setting up our development environment](l1/l1.md)
+* [Lesson 2: Input/Output, Variables, and Comments](l2/l2.md)
+* [Lesson 3: Booleans and Operators](l3/l3.md)
 
 
 [Return to main page](../README.md)
