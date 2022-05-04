@@ -6,7 +6,7 @@
 
 # Chapter Index
 
-* [Chapter 1: Basic introduction to Python](Chapter1-PythonBasics/Chapter1.md)
+* [Chapter 1: Basic introduction to Python](chapter-1-python-basics/chapter-1.md)
 
 ---
 
@@ -127,7 +127,7 @@ If you have been following my guide, and you think of something you want me to c
 
 For inquiries, contact me via trevindjones@gmail.com.
 
-See how far this guide has come so far [here](Progress.md)
+See how far this guide has come so far [here](progress.md)
 
 [View this page on GitHub](https://github.com/trevin-j/learn-programming-with-python/blob/master/README.md)
 
