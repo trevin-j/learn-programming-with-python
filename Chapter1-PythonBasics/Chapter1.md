@@ -6,6 +6,7 @@ Welcome to Chapter 1! In this chapter we will go over and learn the basics of th
 ---
 * [Lesson 1: Setting up our development environment](L1/L1.md)
 * [Lesson 2: Input/Output, Variables, and Comments](L2/L2.md)
+* [Lesson 3: Booleans and Operators](L3/L3.md)
 
 
 [Return to main page](../README.md)
