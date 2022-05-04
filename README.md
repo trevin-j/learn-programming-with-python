@@ -129,6 +129,6 @@ For inquiries, contact me via trevindjones@gmail.com.
 
 See how far this guide has come so far [here](Progress.md)
 
-[View this page on GitHub](https://github.com/trevin-j/LearnProgrammingWithPython/blob/master/README.md)
+[View this page on GitHub](https://github.com/trevin-j/learn-programming-with-python/blob/master/README.md)
 
-[View this live page](https://trevin-j.github.io/LearnProgrammingWithPython/)
+[View this live page](https://trevin-j.github.io/learn-programming-with-python/)
