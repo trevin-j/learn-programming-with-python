@@ -15,9 +15,9 @@ Note: This project is being worked on currently as a solo project by me (Trevin 
 
 ### Chapter 1
 
-| Page                                                                         | Date published |
-|------------------------------------------------------------------------------|----------------|
-| [Chapter 1 Page](/Chapter1-PythonBasics/Chapter1.md)                         | 4/25/2022      |
-| [L1: Setting Up](/Chapter1-PythonBasics/L1/L1.md)                            | 4/25/2022      |
-| [L2: Input/Output, Variables, and Comments](/Chapter1-PythonBasics/L2/L2.md) | 4/27/2022      |
-| [L3: Booleans and Operators](/Chapter1-PythonBasics/L3/L3.md)                | 5/3/2022       |
+| Page                                                                           | Date published |
+|--------------------------------------------------------------------------------|----------------|
+| [Chapter 1 Page](/chapter-1-python-basics/chapter-1.md)                        | 4/25/2022      |
+| [L1: Setting Up](/chapter-1-python-basics/l1/l1.md)                            | 4/25/2022      |
+| [L2: Input/Output, Variables, and Comments](/chapter-1-python-basics/l2/l2.md) | 4/27/2022      |
+| [L3: Booleans and Operators](/chapter-1-python-basics/l3/l3.md)                | 5/3/2022       |
