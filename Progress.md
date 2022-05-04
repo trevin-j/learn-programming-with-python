@@ -20,3 +20,4 @@ Note: This project is being worked on currently as a solo project by me (Trevin 
 | [Chapter 1 Page](/Chapter1-PythonBasics/Chapter1.md)                         | 4/25/2022      |
 | [L1: Setting Up](/Chapter1-PythonBasics/L1/L1.md)                            | 4/25/2022      |
 | [L2: Input/Output, Variables, and Comments](/Chapter1-PythonBasics/L2/L2.md) | 4/27/2022      |
+| [L3: Booleans and Operators](/Chapter1-PythonBasics/L3/L3.md)                | 5/3/2022       |
