@@ -10,7 +10,7 @@ The final project for this chapter will be building a fully functioning Hangman 
 * [Lesson 2: Input/Output, Variables, and Comments](l2/l2.md)
 * [Lesson 3: Booleans and Operators](l3/l3.md)
 * [Lesson 4: Controlling Flow with If-Statements](l4/l4.md)
-* [Lesson 5: Else and Elif Statements](/chapter-1-python-basics/l5/l5.md)
+* [Lesson 5: Else and Elif Statements](l5/l5.md)
 
 
 [Return to main page](../README.md)
